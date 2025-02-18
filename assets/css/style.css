@@ -477,16 +477,6 @@ header {
     position: relative;
 }
 
-.highlight::before {
-    background: url('../image/download.png') no-repeat;
-    bottom: -57px;
-    content: "";
-    height: 64.77px;
-    left: -63px;
-    position: absolute;
-    width: 317.39px;
-}
-
 /* banner end */
 /* about start */
 .about {
